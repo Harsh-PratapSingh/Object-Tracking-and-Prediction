@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Experimental / unused scripts
+yolo*.py
+Traindata*.py
+droidcam (2).py
+yolo11_bytetrack_gpu_win*.py
+yolo11_droidcam*.py
+
+# YOLO pretrained / large model weights
+yolo11n*.pt
+yolo11n-cls*.pt
+yolo11x*.pt
+yolo11x-cls*.pt
+WindBallBest*.pt

@@ -3,8 +3,10 @@ __pycache__/
 *.pyc
 
 # Virtual environments
-.venv/
-venv/
+mp_env/
+ByteTrack/
+yolo11-gpu/
+
 
 # Experimental / unused scripts
 yolo*.py
@@ -19,3 +21,4 @@ yolo11n-cls*.pt
 yolo11x*.pt
 yolo11x-cls*.pt
 WindBallBest*.pt
+
